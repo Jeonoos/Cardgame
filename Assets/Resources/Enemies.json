@@ -1,0 +1,43 @@
+{
+	"Goblin":{
+		"Health": 2,
+		"Damage": 2,
+		"Strength": 10,
+		"Name": "Goblin"
+	},
+	"Drake":{
+		"Traits": ["Flying", "Armored"],
+		"Health": 5,
+		"Damage": 4,
+		"Strength": 100,
+		"Name": "Drake"
+	},
+	"Wolf":{
+		"Traits": ["Rush"],
+		"Health": 2,
+		"Damage": 3,
+		"Strength": 40,
+		"Name": "Wolf"
+	},
+	"Bat":{
+		"Traits": ["Rush", "Flying"],
+		"Health": 1,
+		"Damage": 5,
+		"Strength": 40,
+		"Name": "Bat"
+	},
+	"Az-Laar":{
+		"Traits": ["Armored"],
+		"Health": 7,
+		"Damage": 6,
+		"Strength": 200,
+		"Name": "Az-Laar"
+	},
+	"Shadowstalker":{
+		"Traits": ["Sneaky"],
+		"Health": 4,
+		"Damage": 3,
+		"Strength": 80,
+		"Name": "Shadowstalker"
+	}
+}
